@@ -1,5 +1,5 @@
 # Conteúdo do README.md
-readme_content = """# 💻 Trabalho de Polimorfismo em Java
+readme_content = """# 💻 Calculadora Java
 
 Este é um projeto desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas. O objetivo é demonstrar o uso do **polimorfismo** em Java por meio de uma calculadora com múltiplas operações matemáticas.
 

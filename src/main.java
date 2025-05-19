@@ -148,7 +148,7 @@ public class main extends JFrame {
                 Resultado.setText("Resultado: " + novocalculo.calcular(a, b));
 
                 // Registra no histórico
-                listaresultadosarea.append("Subtrção: " + a + " - " + b + " = " + String.format("%.2f", novocalculo.calcular(a, b)) + "\n");
+                listaresultadosarea.append("Subtração: " + a + " - " + b + " = " + String.format("%.2f", novocalculo.calcular(a, b)) + "\n");
                 listaresultadosarea.append("\n");
 
                 // Limpa os campos
